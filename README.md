@@ -81,9 +81,6 @@ Provided data-driven insights to improve conversion strategy, optimize marketing
 ---
 
 ## 🔗 Links
-- GitHub Notebook: *(add your link here)*  
-- Tableau Dashboard: [[*(add your link here)* ](https://public.tableau.com/views/ProjectConvertion/ConvertionDashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
-
-- Conversion rate analysis  
-- Statistical testing (Chi-square, Bayesian smoothing)  
-- Data visualization and storytelling  
+- GitHub Notebook: *([Project File](https://github.com/punhodik/Project-E-commerce-Conversion-User-Behavior-Analysis/blob/main/E_commerce_Conversion_%26_User_Behavior_Analysis.ipynb))*  
+- Tableau Dashboard: [[*(Dashboard)* ](https://public.tableau.com/views/ProjectConvertion/ConvertionDashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+ 
